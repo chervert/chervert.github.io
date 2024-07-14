@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chervert.github.io/sitemap.html.gz
+Sitemap: https://chervert.github.io/app/sitemap.html.gz
+Sitemap: https://chervert.github.io/assets/sitemap.html.gz
+Sitemap: https://chervert.github.io/css/sitemap.html.gz
+Sitemap: https://chervert.github.io/includes/sitemap.html.gz
+Sitemap: https://chervert.github.io/item/sitemap.html.gz
+Sitemap: https://chervert.github.io/src/sitemap.html.gz
